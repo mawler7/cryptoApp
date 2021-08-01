@@ -11,6 +11,8 @@ Project features:
 - wiadomości ze świata  😀
     - market research
 - wyswietlanie paska z wartościami np. WIG 20
+  
+
 - alerty
 - portfel
 - filtry
